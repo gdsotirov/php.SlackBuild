@@ -1,0 +1,19 @@
+php: PHP: Hypertext Preprocessor 4.3.10 (2004-12-15)
+php:
+php: PHP  is a widely-used general-purpose scripting language that is
+php: especially suited for Web development and can be embedded into HTML.
+php:
+php:
+php: ---
+php: Package build by Georgi D. Sotirov <gdsotirov@dir.bg>
+php: Configure command: ./configure --prefix=/usr \
+php:                                --sysconfdir=/etc \
+php:                                --with-config-file-path=/etc/apache \
+php:                                --with-apxs=/usr/sbin/apxs \
+php:                                --with-openssl \
+php:                                --with-gd \
+php:                                --with-snmp \
+php:                                --with-mysql=/usr \
+php:                                --with-zlib=/usr
+php: Package build: 2005-03-12 15:05 EET
+php:

@@ -1,4 +1,4 @@
-php: PHP: Hypertext Preprocessor 5.1.0 (2005-11-25)
+php: PHP: Hypertext Preprocessor 5.1.2 (2006-01-12)
 php:
 php: PHP is a widely-used general-purpose scripting language that is
 php: especially suited for Web development and can be embedded into HTML. PHP
@@ -7,7 +7,5 @@ php: primary objective behind it is to make a fast and easy-to-use scripting
 php: language for dynamic web sites.
 php:
 php:
-php: ---
 php: Packager: Georgi D. Sotirov <gdsotirov@dir.bg>
-php: Builded: 2005-11-25 22:00 EET
 php:

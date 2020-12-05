@@ -2,10 +2,10 @@ php: PHP: Hypertext Preprocessor 5.1.2 (2006-01-12)
 php:
 php: PHP is a widely-used general-purpose scripting language that is
 php: especially suited for Web development and can be embedded into HTML. PHP
-php: shares syntax characteristics with laguages as C, Java and Perl. The
+php: shares syntax characteristics with languages as C, Java and Perl. The
 php: primary objective behind it is to make a fast and easy-to-use scripting
 php: language for dynamic web sites.
 php:
 php:
-php: Packager: Georgi D. Sotirov <gdsotirov@dir.bg>
+php: Packager: Georgi D. Sotirov <gdsotirov@gmail.com>
 php:
